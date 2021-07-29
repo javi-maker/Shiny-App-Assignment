@@ -6,10 +6,10 @@
 #
 #    http://shiny.rstudio.com/
 #
-
+#Install Shiny
 library(shiny)
 
-# Define server logic required to draw a histogram
+# Define server logic required to implement graph plot
 shinyServer(function(input, output) {
     output$plot1 <- renderPlot({
         set.seed(2016-05-25)

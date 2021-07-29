@@ -1,0 +1,13 @@
+name: MyShinyAPP
+title: MyShinyAPP
+username:
+account: javi-maker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4437793
+bundleId: 4869698
+url: https://javi-maker.shinyapps.io/MyShinyAPP/
+when: 1627588675.9822
+lastSyncTime: 1627588675.9822
+asMultiple: FALSE
+asStatic: FALSE
